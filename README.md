@@ -17,11 +17,8 @@
 
 ## My web portfolio :coffee:
 
-<p align="center">
-  <img
-    src="https://img.shields.io/website?url=https%3A%2F%2Fmiportfolio-murex.vercel.app%2F&up_message=My%20portfolio&up_color=yellow&down_message=Website&down_color=black&style=plastic&label=Personal%20website" alt="Website"
-    />
-</p>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fmiportfolio-murex.vercel.app%2F&up_message=My%20portfolio&up_color=yellow&down_message=Website&down_color=black&style=plastic&label=Personal%20website)
+
 
 <!--
 **mario8q/mario8q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
