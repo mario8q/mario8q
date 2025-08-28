@@ -20,6 +20,5 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmiportfolio-murex.vercel.app%2F&up_message=My%20portfolio&up_color=yellow&down_message=Website&down_color=black&style=for-the-badge&label=Personal%20website)](https://miportfolio-murex.vercel.app/)
 
 ## Actividad reciente :eyes:
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
