@@ -21,12 +21,12 @@
 
 ## Actividad reciente :eyes:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [mario8q/compiladores_25](https://github.com/mario8q/compiladores_25)<br>
+1. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
 2. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
 3. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
-4. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
-5. 📔 Created new repository [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
+4. ⬆️ Pushed 1 commit(s) to [mario8q/compiladores_25](https://github.com/mario8q/compiladores_25)<br>
+5. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 28th, 2025, 4:05:55 PM
+Last Updated: Friday, August 29th, 2025, 1:45:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
