@@ -21,12 +21,12 @@
 
 ## Actividad reciente :eyes:
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/mario8q/repoEjemplo/releases/tag/v0.1.0) in [mario8q/repoEjemplo](https://github.com/mario8q/repoEjemplo)<br>
-2. ⬆️ Pushed 2 commit(s) to [mario8q/repoEjemplo](https://github.com/mario8q/repoEjemplo)<br>
-3. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
+1. ⬆️ Pushed 1 commit(s) to [mario8q/compiladores_25](https://github.com/mario8q/compiladores_25)<br>
+2. ✌️ Released [v0.1.0](https://github.com/mario8q/repoEjemplo/releases/tag/v0.1.0) in [mario8q/repoEjemplo](https://github.com/mario8q/repoEjemplo)<br>
+3. ⬆️ Pushed 2 commit(s) to [mario8q/repoEjemplo](https://github.com/mario8q/repoEjemplo)<br>
 4. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
 5. ⬆️ Pushed 1 commit(s) to [mario8q/mario8q](https://github.com/mario8q/mario8q)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 30th, 2025, 1:04:48 PM
+Last Updated: Sunday, August 31st, 2025, 1:50:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
