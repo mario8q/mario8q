@@ -21,12 +21,12 @@
 
 ## Actividad reciente :eyes:
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [hamil312/actividad-booking-clone](https://github.com/hamil312/actividad-booking-clone)<br>
-2. ⬆️ Pushed undefined commit(s) to [hamil312/outfit-gen](https://github.com/hamil312/outfit-gen)<br>
+1. 🤝 Became collaborator on [hamil312/final-project-mobile-course-app](https://github.com/hamil312/final-project-mobile-course-app)<br>
+2. 🤝 Became collaborator on [hamil312/actividad-booking-clone](https://github.com/hamil312/actividad-booking-clone)<br>
 3. ⬆️ Pushed undefined commit(s) to [hamil312/outfit-gen](https://github.com/hamil312/outfit-gen)<br>
 4. ⬆️ Pushed undefined commit(s) to [hamil312/outfit-gen](https://github.com/hamil312/outfit-gen)<br>
 5. ⬆️ Pushed undefined commit(s) to [hamil312/outfit-gen](https://github.com/hamil312/outfit-gen)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 15th, 2025, 1:24:40 PM
+Last Updated: Thursday, October 16th, 2025, 1:45:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
