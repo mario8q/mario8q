@@ -21,12 +21,12 @@
 
 ## Actividad reciente :eyes:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [mario8q/coffee_db](https://github.com/mario8q/coffee_db)<br>
-2. 🤝 Became collaborator on [hamil312/multimedia-threejs-final](https://github.com/hamil312/multimedia-threejs-final)<br>
-3. 🤝 Became collaborator on [hamil312/finix](https://github.com/hamil312/finix)<br>
-4. 🤝 Became collaborator on [hamil312/seguridad-juice-shop](https://github.com/hamil312/seguridad-juice-shop)<br>
-5. ⬆️ Pushed undefined commit(s) to [mario8q/residenza](https://github.com/mario8q/residenza)<br>
+1. ⬆️ Pushed undefined commit(s) to [hamil312/multimedia-threejs-final](https://github.com/hamil312/multimedia-threejs-final)<br>
+2. ⬆️ Pushed undefined commit(s) to [mario8q/coffee_db](https://github.com/mario8q/coffee_db)<br>
+3. 🤝 Became collaborator on [hamil312/multimedia-threejs-final](https://github.com/hamil312/multimedia-threejs-final)<br>
+4. 🤝 Became collaborator on [hamil312/finix](https://github.com/hamil312/finix)<br>
+5. 🤝 Became collaborator on [hamil312/seguridad-juice-shop](https://github.com/hamil312/seguridad-juice-shop)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 3rd, 2026, 1:19:46 PM
+Last Updated: Monday, May 4th, 2026, 3:37:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
