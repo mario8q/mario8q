@@ -9,7 +9,7 @@
 - :school_satchel: College: Universidad Cooperativa de Colombia
 - :round_pushpin: Location: Colombia - San Juan de Pasto
 - :briefcase: Job: Finding challenges
-- :chart_with_upwards_trend: Learning: Web development with Django
+- :chart_with_upwards_trend: Learning: Celery and rabbitmq
 
 ## Contact Me :black_nib:
 
