@@ -1,7 +1,7 @@
 # Hey, I'm Mario Santacruz :raised_hand:
 
 <center>
-    Hey, welcome to my GitHub account, I'm a current software engineering student, who really likes solving problems in the most creative ways by driving projects forward.
+    Hey, welcome to my GitHub account, I'm a software engineer, who really likes solving problems in the most creative ways by driving projects forward.
 </center>
 
 ## About Me 🤔
